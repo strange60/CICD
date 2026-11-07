@@ -9,8 +9,8 @@
 </p>
 
 
-<a href="about.jsp">about page</a>
-
+<a href="about.jsp">About page</a>
+<a href="services.jsp">Service page</a>
 
 </body>
 
