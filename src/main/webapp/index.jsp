@@ -11,6 +11,7 @@
 
 <a href="about.jsp">About page</a>
 <a href="services.jsp">Service page</a>
+<a href="test.jsp">new page</a>
 
 </body>
 
