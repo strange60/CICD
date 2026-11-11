@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="services.jsp">Service page</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="test.jsp">new page</a>
+<a href="test.jsp">Test page</a>
 
 </body>
 
