@@ -10,7 +10,9 @@
 
 
 <a href="about.jsp">About page</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="services.jsp">Service page</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="test.jsp">new page</a>
 
 </body>
